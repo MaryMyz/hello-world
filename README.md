@@ -1,5 +1,2 @@
-# hello-world
-first repository
-
-hello!
-I love eating.
+# Hello Sugar Labs
+My name is Mary Ma
